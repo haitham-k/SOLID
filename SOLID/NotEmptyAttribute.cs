@@ -1,0 +1,5 @@
+﻿
+namespace SolidExercice2
+{
+    
+}
